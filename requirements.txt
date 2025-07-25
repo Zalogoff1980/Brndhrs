@@ -1,5 +1,4 @@
-python-telegram-bot==20.6
-requests
+python-telegram-bot==20.3
 pandas
-pandas_ta
-setuptools
+pandas-ta
+numpy==1.24.3
